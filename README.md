@@ -1,11 +1,12 @@
 # Pitch Vertice Graph (Improved Tonnetz)
 
 <img src="https://raw.githubusercontent.com/emilis/pitch-node-graph/master/illustration.png" align="right" title="Illustration">
+
 _An improved [Tonnetz](https://en.wikipedia.org/wiki/Tonnetz) layout._
 
 ##  How to use
 
-1.  Print a sheet PDF.
+1.  Print a sheet PDF ([A4](https://github.com/emilis/pitch-node-graph/raw/master/pitch-node-sheet-a4.pdf), [US Letter](https://github.com/emilis/pitch-node-graph/raw/master/pitch-node-sheet-us-letter.pdf)).
 2.  Draw the graph _edges_ for your chords.
 
 I suggest drawing lines, not areas. Connect the pitches in the thirds and skip connecting the fifths.
