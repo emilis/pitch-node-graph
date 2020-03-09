@@ -1,4 +1,4 @@
-# Pitch Vertice Graph (Improved tonnetz)
+# Pitch Vertice Graph (Improved Tonnetz)
 
 <img src="https://raw.githubusercontent.com/emilis/pitch-node-graph/illustration.png" align="right" title="illustration">
 _An improved [Tonnetz](https://en.wikipedia.org/wiki/Tonnetz) layout._
