@@ -1,6 +1,6 @@
 # Pitch Vertice Graph (Improved Tonnetz)
 
-<img src="https://raw.githubusercontent.com/emilis/pitch-node-graph/illustration.png" align="right" title="illustration">
+<img src="https://raw.githubusercontent.com/emilis/pitch-node-graph/master/illustration.png" align="right" title="Illustration">
 _An improved [Tonnetz](https://en.wikipedia.org/wiki/Tonnetz) layout._
 
 ##  How to use
